@@ -1,5 +1,5 @@
 # Gheto Instagram
 
 
-A Flutter Basic Comment post with auth and database through firebase
+A Basic Flutter App that posts Comments with auth and database through firebase
 
